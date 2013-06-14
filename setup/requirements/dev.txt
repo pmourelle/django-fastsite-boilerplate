@@ -1,0 +1,4 @@
+# requirements for development
+
+-r common.txt
+django-debug-toolbar==0.9.4

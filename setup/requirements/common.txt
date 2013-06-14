@@ -1,0 +1,5 @@
+# requirements needed always (dev, prod, whatever)
+
+Django==1.5.1
+South==0.8.1
+wsgiref==0.1.2
